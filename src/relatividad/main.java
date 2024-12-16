@@ -1,3 +1,5 @@
+package relatividad;
+
 import java.util.Scanner;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
